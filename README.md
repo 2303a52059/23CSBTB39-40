@@ -5,3 +5,4 @@ https://github.com/2303a52059/23CSBTB39-40/blob/main/Assignment-4.1.ipynb
 https://github.com/2303a52059/23CSBTB39-40/blob/main/Assignment3.ipynb
 https://github.com/2303a52059/23CSBTB39-40/blob/main/Untitled18.ipynb
 https://github.com/2303a52059/23CSBTB39-40/blob/main/assignment9.ipynb
+https://github.com/2303a52059/23CSBTB39-40/blob/main/AIML_ASSIGNMENT_7.ipynb
